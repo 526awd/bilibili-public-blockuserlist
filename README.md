@@ -1,5 +1,7 @@
 # b站共享黑名单
 
+## 如何贡献名单
+> fork，在list中添加你的名单，在img上传证据，pr，然后合并
 ## 322514363 机器号，水军，境外，挑拨对立
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-11-07-50-120_tv.danmaku.bili.jpg"/>
 
