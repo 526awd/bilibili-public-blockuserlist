@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-11-06-01-186_tv.danmaku.bili.jpg"/>
 
 ## 173923131 水军，长文案，机器号，1450，盗短uid号，没入站考试动态
-<img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-11-07-37-865_tv.danmaku.bili"/>
+<img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-11-07-37-865_tv.danmaku.bili.jpg"/>
 
 ## 3546650073106975 水军，1450，挑拨对立，起号视频，卖号
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-09-30-19-16-53-589_tv.danmaku.bili.jpg"/>
