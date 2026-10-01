@@ -1,38 +1,49 @@
 # b站共享黑名单
 
 ## 此仓库目的
+
 在于抵制境外间谍
 
 ## 如何贡献名单
+
 > fork，在list中添加你的名单，在img上传证据，pr，然后合并
+
 ## 322514363 机器号，水军，境外，挑拨对立
+
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-11-07-50-120_tv.danmaku.bili.jpg"/>
 
 ## 3546901733444086 水军，1450，境外，号被盗，动态间隔时间过长
+
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-11-06-01-186_tv.danmaku.bili.jpg"/>
 
 ## 173923131 水军，长文案，机器号，1450，盗短uid号，没入站考试动态
+
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-11-07-37-865_tv.danmaku.bili.jpg"/>
 
 ## 3546650073106975 水军，1450，挑拨对立，起号视频，卖号
+
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-09-30-19-16-53-589_tv.danmaku.bili.jpg"/>
 
 ## 516380588 水军，1450，挑拨对立，境外
+
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/516380588 水军，1450，挑拨对立，境外.jpg"/>
 
 ## 3494361102813412 动态间隔时间过长，1450，境外，挑拨对立
+
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-13-38-05-824_tv.danmaku.bili.jpg"/>
 
 ## 3546750306486741 机器号，水军，1450，境外，挑拨对立，没有入站动态，默认用户名，等级增长异常
+
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-13-41-22-541_tv.danmaku.bili.jpg"/>
 
 ## 7809436 高等级被盗，机器号，水军，1450，境外，挑拨对立
+
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-13-43-08-007_tv.danmaku.bili.jpg"/>
 
 ## 626453 高等级被盗，机器号，水军，1450，境外，挑拨对立
+
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-13-46-11-552_tv.danmaku.bili.jpg"/>
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-13-46-06-723_tv.danmaku.bili.jpg"/>
-
 
 ## 关于男女对立
 
@@ -60,18 +71,19 @@
 
 他们宣传人文主义，这玩意儿是谁说的？是教会的祖宗，教会主讲一个信仰，你总不能否定希腊罗马那个时候自己的祖宗吧？于是但丁、乔托、彼得拉克这些人物出现，《神曲》、《十日谈》、《最后的晚餐》这些作品问世，开启了文艺复兴的序幕，把教会压了下去，资本主义从此应运而生。
 
-同理，我搞不定你中国，美国国务卿访华也没用。那我从外部搞不定你，我还不能借你自己的手削你自己吗？这方面，西方国家可是老司机。
+**同理，我搞不定你中国，美国国务卿访华也没用。那我从外部搞不定你，我还不能借你自己的手削你自己吗？这方面，西方国家可是老司机。**
 
 背后为中国的男女对立提供资金支持，削减中国的经济发展，逼你跟我合作，逼你承认我的国际主导权。
 
-所以，当我们不断看到一些连基础逻辑都讲不通的“男女对立”出现时，甚至是一些为了煽动男女对立不惜违法犯罪的行为时，警惕一下，背后的因素绝不仅仅只是性别之间的矛盾而已。
+**所以，当我们不断看到一些连基础逻辑都讲不通的“男女对立”出现时，甚至是一些为了煽动男女对立不惜违法犯罪的行为时，警惕一下，背后的因素绝不仅仅只是性别之间的矛盾而已。**
 
-有些女权主义者，自己生了二胎三胎，甚至高龄生产。结果她却在网上大言不惭，说自己也不想生之类，进而继续煽动男女对立……不可笑吗？
+**有些女权主义者，自己生了二胎三胎，甚至高龄生产。结果她却在网上大言不惭，说自己也不想生之类，进而继续煽动男女对立……不可笑吗？**
 
-这是一个大时代，胜者荣升，败者沉沦，一步走错，就是被打压数百年的结果，甚至可能会永世不得翻身。有些人自私，但有时候也要想想自己的子嗣。 ## 为了一时之利，让子女在未来被西方国家踩在脚下压迫，值得吗？ ##
+这是一个大时代，胜者荣升，败者沉沦，一步走错，就是被打压数百年的结果，甚至可能会永世不得翻身。有些人自私，但有时候也要想想自己的子嗣。**为了一时之利，让子女在未来被西方国家踩在脚下压迫，值得吗？**
 
-
-    ——《无利益且风险大，男子为何造谣？警惕煽动男女对立背后的境外因素》的后半段（https://zhuanlan.zhihu.com/p/638424486）
+```
+——《无利益且风险大，男子为何造谣？警惕煽动男女对立背后的境外因素》的后半段（https://zhuanlan.zhihu.com/p/638424486）
+```
 
 ## 关于国家安全
 
@@ -97,8 +109,10 @@
 　　在家人陪同下，赵某主动向国家安全机关自首。鉴于赵某主动投案，且尚未对我国国家安全造成实质危害，国家安全机关依法免于追究其刑事责任
 。
 
+```
       哪些行为属于间谍行为？
       根据我国新修订的《反间谍法》，间谍行为主要包括6种类型。
+```
 
 　　（一）间谍组织及其代理人实施或者指使、资助他人实施，或者境内外机构、组织、个人与其相勾结实施的危害中华人民共和国国家安全的活动；
 
@@ -115,6 +129,5 @@
 　　此外，间谍组织及其代理人在中华人民共和国领域内，或者利用中华人民共和国的公民、组织或者其他条件，从事针对第三国的间谍活动，危害中华人民共和国国家安全的。
 
 
+——《树立国家安全意识！警惕境外间谍采取“隐秘手段”策反渗透》（https://news.cctv.com/2024/08/23/ARTINPCBW6kWewTcW0txT8d1240823.shtml）
 
-
-                                                              ——《树立国家安全意识！警惕境外间谍采取“隐秘手段”策反渗透》（https://news.cctv.com/2024/08/23/ARTINPCBW6kWewTcW0txT8d1240823.shtml）
