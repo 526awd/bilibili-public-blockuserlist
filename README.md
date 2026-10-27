@@ -14,9 +14,13 @@
 > 首先fork给项目，在list中添加名单，在img上传对应证据，pr，然后合并
 
 
-## markdown名单
+## 名单
 
-已迁移到了list.md[list.md]
+目前暂时不更新md名单，因为需要图片证据
+
+此外，piliplus_list.json持续更新
+
+md名单已迁移到了list.md[list.md]
 
 ## 关于国家安全
 
