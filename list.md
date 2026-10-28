@@ -35,3 +35,11 @@
 
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-13-46-11-552_tv.danmaku.bili.jpg"/>
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/Screenshot_2026-10-01-13-46-06-723_tv.danmaku.bili.jpg"/>
+
+## 290255769 僵尸号，高等级被盗，1450
+
+<img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/290255769.jpg"/>
+
+## 3706956697045163 卖号的，搞男女对立，1450
+
+<img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/3706956697045163.jpg"/>
