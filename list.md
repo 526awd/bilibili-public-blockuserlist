@@ -43,3 +43,7 @@
 ## 3706956697045163 卖号的，搞男女对立，1450
 
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/3706956697045163.jpg"/>
+
+## 3546948086794392 机器号，搞男女对立浪，1450，高等级被盗，无任何评论
+
+<img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/3546948086794392.jpg"/>
