@@ -117,3 +117,11 @@
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/3690992962111822_01.jpg"/>
 
 <img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/3690992962111822_02.jpg"/>
+
+## 354694866351 广告
+
+<img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/354694866351.jpg"/>
+
+## 370696341841 广告
+
+<img src="https://raw.githubusercontent.com/526awd/bilibili-public-blockuserlist/refs/heads/main/img/370696341841.jpg"/>
